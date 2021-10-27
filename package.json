@@ -1,0 +1,23 @@
+{
+  "name": "hw-10-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artem-halishchuk/hv-10-v2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artem-halishchuk/hv-10-v2/issues"
+  },
+  "homepage": "https://github.com/artem-halishchuk/hv-10-v2#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
